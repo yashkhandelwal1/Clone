@@ -161,11 +161,6 @@ nav ul li{
         margin: 5px;
     }
 
-    .songlistplay{
-        position: relative;
-        top: 3px;
-        word-wrap: break-word;
-    }
     .container{
         width: 80%;
     }
